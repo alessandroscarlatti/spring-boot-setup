@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * ~  Monday, 10/30/2017
  */
 @Controller
-public class RootController {
+public class AppController {
 
     /**
      * Easier to test this method declaration style,
